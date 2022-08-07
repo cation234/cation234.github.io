@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sci-Fi on 個人隨想</title>
+    <link>https://cation234.github.io/tags/sci-fi/</link>
+    <description>Recent content in Sci-Fi on 個人隨想</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cation234.github.io/tags/sci-fi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neuromancer</title>
+      <link>https://cation234.github.io/posts/neuromancer/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/neuromancer/</guid>
+      <description>前陣子駭客任務第四集上映，最近商場上所謂VR、AR、元宇宙云云，口號更喊得火熱。但早在近乎四十年前的1984年，由小說家William Gib</description>
+    </item>
+    
+    <item>
+      <title>The End of Eternity</title>
+      <link>https://cation234.github.io/posts/the-end-of-eternity/</link>
+      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/the-end-of-eternity/</guid>
+      <description>The End of Eternity是小說家Isaac Asimov著名的科幻小說之一，發行於1955年。在書中，一位名為Vikkor Mallansohn的</description>
+    </item>
+    
+  </channel>
+</rss>

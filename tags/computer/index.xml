@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer on 個人隨想</title>
+    <link>https://cation234.github.io/tags/computer/</link>
+    <description>Recent content in Computer on 個人隨想</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cation234.github.io/tags/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>光華商場的奇人</title>
+      <link>https://cation234.github.io/posts/guang-hua-macintosh/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/guang-hua-macintosh/</guid>
+      <description>和同年齡的人比起來，我接觸蘋果電腦的時間非常早。大約在我念大班時，因為親戚移民遠行，有些家當無法帶走，就送了我們家一台Apple II相容機。</description>
+    </item>
+    
+  </channel>
+</rss>

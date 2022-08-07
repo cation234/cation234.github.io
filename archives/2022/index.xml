@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on 個人隨想</title>
+    <link>https://cation234.github.io/archives/2022/</link>
+    <description>Recent content in 2022 on 個人隨想</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cation234.github.io/archives/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>歷史的定義</title>
+      <link>https://cation234.github.io/posts/definition-of-history/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/definition-of-history/</guid>
+      <description>成大有一門全體大一新生不分科系的共同必修課程，就是歷史，當時我們班的任課教師是成大歷史系的蔡幸娟副教授。 第二或是第三次上課時，我們被安排觀賞</description>
+    </item>
+    
+    <item>
+      <title>The Curious Case of Banjamin Button</title>
+      <link>https://cation234.github.io/posts/the-curious-case-of-banjamin-button/</link>
+      <pubDate>Sun, 24 Apr 2022 11:27:50 +0800</pubDate>
+      
+      <guid>https://cation234.github.io/posts/the-curious-case-of-banjamin-button/</guid>
+      <description>你可能看過這部2008年的電影：The Curious Case of Benjamin Button，台譯班傑明的奇幻之旅。這部片實為改編自1922年由F. Scott Fitzgerald撰寫</description>
+    </item>
+    
+    <item>
+      <title>Neuromancer</title>
+      <link>https://cation234.github.io/posts/neuromancer/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/neuromancer/</guid>
+      <description>前陣子駭客任務第四集上映，最近商場上所謂VR、AR、元宇宙云云，口號更喊得火熱。但早在近乎四十年前的1984年，由小說家William Gib</description>
+    </item>
+    
+  </channel>
+</rss>
