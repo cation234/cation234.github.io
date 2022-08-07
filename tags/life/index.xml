@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on 個人隨想</title>
+    <link>https://cation234.github.io/tags/life/</link>
+    <description>Recent content in Life on 個人隨想</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://cation234.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你的分數</title>
+      <link>https://cation234.github.io/posts/college-score/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/college-score/</guid>
+      <description>我念小學的時候成績還不錯，每次考試、寫作業什麼的，動不動就是一百分、九十來分，所以在我眼裡，分數都是從一百分開始往下扣。 但當我上了大學後我才</description>
+    </item>
+    
+    <item>
+      <title>世界真小</title>
+      <link>https://cation234.github.io/posts/asus-life/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/asus-life/</guid>
+      <description>這個世界真的很小，小得很誇張。2008年我一退伍，不到兩個月時間，就進入華碩電腦工作。才進去沒多久，就發現裡頭和傳聞一模一樣：人事鬥爭嚴重，</description>
+    </item>
+    
+    <item>
+      <title>光華商場的奇人</title>
+      <link>https://cation234.github.io/posts/guang-hua-macintosh/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/guang-hua-macintosh/</guid>
+      <description>和同年齡的人比起來，我接觸蘋果電腦的時間非常早。大約在我念大班時，因為親戚移民遠行，有些家當無法帶走，就送了我們家一台Apple II相容機。</description>
+    </item>
+    
+    <item>
+      <title>天母的生活</title>
+      <link>https://cation234.github.io/posts/life-in-tianmu/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/life-in-tianmu/</guid>
+      <description>我對天母這個地方，還有它的週邊地帶，非常有感情。雖然我成長、待得最久的老家並不在天母，但從老家慢慢走路晃出門，了不起二十來分鐘就能到達天母。</description>
+    </item>
+    
+  </channel>
+</rss>
