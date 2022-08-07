@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021-03 on 個人隨想</title>
+    <link>https://cation234.github.io/archives/2021-03/</link>
+    <description>Recent content in 2021-03 on 個人隨想</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://cation234.github.io/archives/2021-03/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>網紅影片特徵</title>
+      <link>https://cation234.github.io/posts/internet-video/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/internet-video/</guid>
+      <description>現在Youtube上的網紅(Influencer)多得是，近乎要取代我們以往在電視上看見的節目了。而且拜科技所賜，現在你只要有一支手機，了不</description>
+    </item>
+    
+  </channel>
+</rss>
