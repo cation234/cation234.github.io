@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020-06 on 個人隨想</title>
+    <link>https://cation234.github.io/archives/2020-06/</link>
+    <description>Recent content in 2020-06 on 個人隨想</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cation234.github.io/archives/2020-06/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nightfall</title>
+      <link>https://cation234.github.io/posts/nightfall/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/nightfall/</guid>
+      <description>明天適逢難得一見的日全蝕，在這裡分享一個有趣的短篇小說。這部小說叫做Nightfall，是知名科幻小說家Issac Asimov於1941年完</description>
+    </item>
+    
+    <item>
+      <title>翻譯的謬誤</title>
+      <link>https://cation234.github.io/posts/lost-in-translation/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/lost-in-translation/</guid>
+      <description>為何我們在學習外文時，老師多半會鼓勵大家，直接讀原文書、多注意原文的戲劇臺詞，而不要看翻譯本，或是過度仰賴翻譯臺詞呢？因為任何語言經過翻譯之</description>
+    </item>
+    
+  </channel>
+</rss>
