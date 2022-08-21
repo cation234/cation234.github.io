@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2020-05 on 個人隨想</title>
+    <link>https://cation234.github.io/archives/2020-05/</link>
+    <description>Recent content in 2020-05 on 個人隨想</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://cation234.github.io/archives/2020-05/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>紀念成大物理系吳慶年教授</title>
+      <link>https://cation234.github.io/posts/professor-wu/</link>
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cation234.github.io/posts/professor-wu/</guid>
+      <description>成大物理系已故教授吳慶年先生，生於1926年，卒於2016年，是我在成功大學攻讀機械系時的大一普通物理授課教師。當時班上同學絕大多數不愛上他</description>
+    </item>
+    
+  </channel>
+</rss>
